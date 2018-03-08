@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UniRx;
 
 using PracticeUnity;
 
@@ -11,12 +12,9 @@ public class Sample : MonoBehaviour
 
 
 	// Use this for initialization
-	void Start () {
-		
+	void Start ()
+	{
+		Observable.EveryGameObjectUpdate().Subscribe( x => transform.Translate( 0,0.01f,0 ) );
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
