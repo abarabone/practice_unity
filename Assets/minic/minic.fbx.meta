@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 703ea6d11c3a9c84a90b7d32f62b21b9
+timeCreated: 1520740631
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _foot_L_
+    100002: _foot_R_
+    100004: arm1_L_
+    100006: arm1_R_
+    100008: arm2_L_
+    100010: arm2_R_
+    100012: body
+    100014: chest_
+    100016: hair_L_
+    100018: hair_R_
+    100020: head_
+    100022: hip_
+    100024: leg1_L_
+    100026: leg1_R_
+    100028: leg2_L_
+    100030: leg2_R_
+    100032: Mesh
+    100034: //RootNode
+    100036: nintou+
+    100038: sholder_L_
+    100040: sholder_R_
+    100042: wapon
+    400000: _foot_L_
+    400002: _foot_R_
+    400004: arm1_L_
+    400006: arm1_R_
+    400008: arm2_L_
+    400010: arm2_R_
+    400012: body
+    400014: chest_
+    400016: hair_L_
+    400018: hair_R_
+    400020: head_
+    400022: hip_
+    400024: leg1_L_
+    400026: leg1_R_
+    400028: leg2_L_
+    400030: leg2_R_
+    400032: Mesh
+    400034: //RootNode
+    400036: nintou+
+    400038: sholder_L_
+    400040: sholder_R_
+    400042: wapon
+    2100000: mat1
+    2100002: wapon
+    4300000: body
+    4300002: nintou+
+    7400000: jumpdown
+    7400002: run01
+    7400004: runjump01
+    7400006: sit01
+    7400008: slash01HL
+    7400010: slash01HR
+    7400012: slash01VD
+    7400014: slash01VU
+    7400016: slashVU(L)
+    7400018: stanceHL
+    7400020: stanceHR
+    7400022: stanceVD
+    7400024: stanceVU
+    7400026: stand01
+    7400028: stand02
+    7400030: walk01
+    7400032: walk02
+    9500000: //RootNode
+    13700000: body
+    13700002: nintou+
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat1
+    second: {fileID: 2100000, guid: d1fcd85b4643878418531146f8ceed6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wapon
+    second: {fileID: 2100000, guid: 0aa851515cd3747d6b3b3e461199a2ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - hip_/chest_/sholder_R_/arm1_R_/arm2_R_/wapon
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
