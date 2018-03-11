@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: a21ddbfde435954458d7a4ad3e85b05f
+timeCreated: 1520755164
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm1_L_
+    100002: arm1_R_
+    100004: arm2_L_
+    100006: arm2_R_
+    100008: body
+    100010: chest
+    100012: chichi_L_
+    100014: chichi_R_
+    100016: eye
+    100018: eye_L_
+    100020: eye_R_
+    100022: foot_L_
+    100024: foot_R_
+    100026: hair
+    100028: hair1_L_
+    100030: hair1_R_
+    100032: hair2_L_
+    100034: hair2_R_
+    100036: hand_L_
+    100038: hand_R_
+    100040: head
+    100042: hip
+    100044: leg1_L_
+    100046: leg1_R_
+    100048: leg2_L_
+    100050: leg2_R_
+    100052: Mesh
+    100054: neck
+    100056: sholder_L_
+    100058: sholder_R_
+    100060: //RootNode
+    100062: west
+    400000: arm1_L_
+    400002: arm1_R_
+    400004: arm2_L_
+    400006: arm2_R_
+    400008: body
+    400010: chest
+    400012: chichi_L_
+    400014: chichi_R_
+    400016: eye
+    400018: eye_L_
+    400020: eye_R_
+    400022: foot_L_
+    400024: foot_R_
+    400026: hair
+    400028: hair1_L_
+    400030: hair1_R_
+    400032: hair2_L_
+    400034: hair2_R_
+    400036: hand_L_
+    400038: hand_R_
+    400040: head
+    400042: hip
+    400044: leg1_L_
+    400046: leg1_R_
+    400048: leg2_L_
+    400050: leg2_R_
+    400052: Mesh
+    400054: neck
+    400056: sholder_L_
+    400058: sholder_R_
+    400060: //RootNode
+    400062: west
+    2100000: eye
+    2100002: hitomi
+    2100004: kaminoke
+    2100006: mat1
+    4300000: eye
+    4300002: body
+    4300004: hair
+    7400000: motion_01
+    7400002: motion_03
+    9500000: //RootNode
+    13700000: body
+    13700002: eye
+    13700004: hair
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

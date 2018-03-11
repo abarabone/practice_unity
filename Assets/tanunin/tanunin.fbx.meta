@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 35449d63f28947c41a43d5df5a2d769f
+timeCreated: 1520756669
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm
+    100002: arm1_L_
+    100004: arm1_R_
+    100006: arm2_L_
+    100008: arm2_R_
+    100010: body
+    100012: chest_
+    100014: foot_L_
+    100016: foot_R_
+    100018: hand
+    100020: hand_L_
+    100022: hand_R_
+    100024: head
+    100026: head_
+    100028: hip_
+    100030: leg
+    100032: leg1_L_
+    100034: leg1_R_
+    100036: leg2_L_
+    100038: leg2_R_
+    100040: Mesh
+    100042: sholder_L_
+    100044: sholder_R_
+    100046: //RootNode
+    400000: arm
+    400002: arm1_L_
+    400004: arm1_R_
+    400006: arm2_L_
+    400008: arm2_R_
+    400010: body
+    400012: chest_
+    400014: foot_L_
+    400016: foot_R_
+    400018: hand
+    400020: hand_L_
+    400022: hand_R_
+    400024: head
+    400026: head_
+    400028: hip_
+    400030: leg
+    400032: leg1_L_
+    400034: leg1_R_
+    400036: leg2_L_
+    400038: leg2_R_
+    400040: Mesh
+    400042: sholder_L_
+    400044: sholder_R_
+    400046: //RootNode
+    2100000: tmpface
+    2100002: mat1
+    4300000: head
+    4300002: body
+    4300004: arm
+    4300006: hand
+    4300008: leg
+    7400000: kataeOroshi
+    7400002: kamae01
+    7400004: stand
+    7400006: udekumi
+    7400008: prejump
+    7400010: hwalk01
+    7400012: vwalk01
+    7400014: shagami
+    7400016: fuse
+    7400018: haritsuki
+    7400020: burasagari
+    7400022: hwalk02
+    7400024: vwalk02
+    7400026: vhaizuri
+    7400028: hhaizuri
+    7400030: hhariwalk
+    7400032: vhariwalk
+    7400034: agari
+    7400036: jumpup
+    7400038: jumpdown
+    7400040: kamae00
+    7400042: zan00
+    7400044: zan00+
+    7400046: kabehari
+    7400048: hkabebai+
+    7400050: hkabehai
+    7400052: kabeharish
+    7400054: hkabehaish
+    7400056: hkabehaishL
+    7400058: hkabehaishR
+    7400060: coversh
+    9500000: //RootNode
+    13700000: arm
+    13700002: body
+    13700004: hand
+    13700006: head
+    13700008: leg
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat1
+    second: {fileID: 2100000, guid: f8fddd13db055f047a5ee59ce38bb3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tmpface
+    second: {fileID: 2100000, guid: 2168b415770b95b408789c68dd959a89, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
