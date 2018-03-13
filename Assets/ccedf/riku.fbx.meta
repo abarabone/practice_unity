@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 42a60d85eb48c854cad5048bd510a641
-timeCreated: 1520756106
-licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -89,6 +87,7 @@ ModelImporter:
     13700004: mbody
     13700006: mhead
     13700008: mopt
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -118,6 +117,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 0
     animationRotationError: 0.5
     animationPositionError: 0.5
