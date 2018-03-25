@@ -123,4 +123,5 @@ Library/
 *.csproj
 *.sln
 *.pdb.meta
-[Aa]ssets/[Pp]lugins
+[Aa]ssets/[Pp]lugins*
+[Aa]ssets/[Dd]efault[Pp]layables*
