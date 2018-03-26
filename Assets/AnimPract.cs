@@ -18,16 +18,20 @@ public class AnimPract : MonoBehaviour
 	public AnimationClip	Clip2;
 	public AnimationClip    Clip3;
 	
+	public NewPlayableBehaviour pb = new NewPlayableBehaviour();
+	public ScriptPlayable<NewPlayableBehaviour>	sp;
+
 	[RangeReactiveProperty(0,1)]
 	public FloatReactiveProperty	weight;
 
 
 	private void Awake()
 	{
-		
 		graph = PlayableGraph.Create();
-		
+
 		//graph.SetTimeUpdateMode( DirectorUpdateMode.GameTime );
+
+		sp = ScriptPlayable<NewPlayableBehaviour>.Create( graph, pb );
 
 	}
 	private void Start()
