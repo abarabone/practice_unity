@@ -5,6 +5,7 @@ using UnityEngine.Playables;
 using UnityEngine.Animations;
 using UniRx;
 
+
 public class MotionPrac : MonoBehaviour
 {
 
@@ -29,12 +30,7 @@ public class MotionPrac : MonoBehaviour
 		Observable.Interval( System.TimeSpan.FromSeconds( 2.0f ) )
 			.Subscribe( _ => p.SetTime( 0.0f ) );
 	}
-
-	AnimationClip createNewClip( AnimationClip cp )
-	{
-		var newcp = new AnimationClip();
-		newcp.
-	}
+	
 
 
 	private void Awake()
@@ -46,3 +42,57 @@ public class MotionPrac : MonoBehaviour
 		graph.Destroy();
 	}
 }
+
+
+
+
+
+public class LiteMotionPlayer
+{ 
+	
+	public void Play()
+	{
+		
+	}
+	
+
+}
+
+public class LiteMotionClip
+{
+
+	string			name;
+
+	KeyStreamUnit[]	positionStreams;
+
+	KeyStreamUnit[] rotationStreams;
+
+	KeyStreamUnit[] scaleStreams;
+
+
+	[System.Serializable]
+	public struct KeyStreamUnit
+	{
+		public float[]      times;
+
+		[Compact]
+		public Vector4[]    keys;	
+	}
+	
+
+	static public LiteMotionSlerpUnit Get
+}
+
+public struct LiteMotionSlerpUnit
+{ }
+
+
+
+public class LiteMotionConverter
+{ 
+	
+
+
+}
+
+
